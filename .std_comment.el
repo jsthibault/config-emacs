@@ -5,7 +5,7 @@
 ;; Login   <fred@epita.fr>
 ;; 
 ;; Started on  Thu Sep  9 23:34:05 1993 Frederic Denis
-;; Last update Tue Oct 18 09:51:42 2016 [NAME]
+;; Last update Tue Oct 18 09:51:42 2016 Mowgli
 ;;
 ;; Based on Comment routines by Isaac
 ;;
