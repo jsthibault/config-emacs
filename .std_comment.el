@@ -21,7 +21,7 @@
 
 
 (setq header-made-by	"Made by "
-      header-login	Login   "
+      header-login	 "Login   "
       header-login-beg	"<"
       header-login-mid	"@"
       header-login-end	">"
